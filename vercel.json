@@ -1,5 +1,7 @@
 {
   "routes": [
+    { "src": "/", "dest": "/BLUESTOCK.html" },
     { "src": "/BLUESTOCK.html", "dest": "/SharkInvestor_Bluestock.html" }
   ]
 }
+
