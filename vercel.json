@@ -1,0 +1,8 @@
+{
+  "routes": [
+    {
+      "src": "/BLUESTOCK",
+      "dest": "/UPCOMING_IPO_Bluestock.html"
+    }
+  ]
+}
